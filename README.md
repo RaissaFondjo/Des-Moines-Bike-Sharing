@@ -1,4 +1,4 @@
-# bikesharing
+# Des Moines - Bike Sharing Analysis
 
 ## Overview of the statistical analysis:
 
